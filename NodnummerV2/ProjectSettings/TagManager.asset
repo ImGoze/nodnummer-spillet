@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DialogueTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Headline
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Actor
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Headline
+    uniqueID: 1527419055
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3311446593
+    locked: 0
+  - name: Actor
+    uniqueID: 2367305679
+    locked: 0
+  - name: Interactable
+    uniqueID: 3766200277
+    locked: 0
